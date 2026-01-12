@@ -4,9 +4,8 @@ void main() {
   runApp(const MyApp());
 }
 
-/* =======================
-   MAIN APP
-======================= */
+// MAIN APP
+
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
@@ -19,9 +18,8 @@ class MyApp extends StatelessWidget {
   }
 }
 
-/* =======================
-   HOME SCREEN
-======================= */
+// HOME SCREEN
+
 class HomeScreen extends StatelessWidget {
   const HomeScreen({super.key});
 
@@ -34,9 +32,8 @@ class HomeScreen extends StatelessWidget {
   }
 }
 
-/* =======================
-   PROFILE CARD
-======================= */
+//   PROFILE CARD
+
 class ProfileCard extends StatelessWidget {
   const ProfileCard({super.key});
 
@@ -72,9 +69,8 @@ class ProfileCard extends StatelessWidget {
   }
 }
 
-/* =======================
-   PROFILE IMAGE
-======================= */
+// PROFILE IMAGE
+
 class ProfileImage extends StatelessWidget {
   const ProfileImage({super.key});
 
@@ -87,9 +83,8 @@ class ProfileImage extends StatelessWidget {
   }
 }
 
-/* =======================
-   PROFILE NAME
-======================= */
+// PROFILE NAME
+
 class ProfileName extends StatelessWidget {
   const ProfileName({super.key});
 
@@ -102,9 +97,7 @@ class ProfileName extends StatelessWidget {
   }
 }
 
-/* =======================
-   PROFILE ROLE
-======================= */
+// PROFILE ROLE
 class ProfileRole extends StatelessWidget {
   const ProfileRole({super.key});
 
@@ -117,9 +110,8 @@ class ProfileRole extends StatelessWidget {
   }
 }
 
-/* =======================
-   SOCIAL ICONS
-======================= */
+// SOCIAL ICONS
+
 class SocialIcons extends StatelessWidget {
   const SocialIcons({super.key});
 
