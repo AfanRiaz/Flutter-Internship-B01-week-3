@@ -2,7 +2,7 @@
 
 ## Task 1
 
-Task 1 included flutter sdk installatin and android studio set up and running first app 
+Task 1 included flutter sdk installation and android studio set up and running first app 
 
 ## Task 2
 
@@ -10,7 +10,7 @@ In Task 2 I learned basics of flutter like Column, container , text widget and i
 
 ## Task 3
 
-In Task 3 I learned about statefull and stateless widgets and how they are implimented
+In Task 3 I learned about stateful and stateless widgets and how they are implemented
 
 ## Task 4
 

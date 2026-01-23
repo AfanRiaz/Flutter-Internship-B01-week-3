@@ -2,7 +2,23 @@
 <module type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
-    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/Task_1/hello_flutter/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Task_1/hello_flutter/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Task_1/hello_flutter/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Task_2/task_2_app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Task_2/task_2_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Task_2/task_2_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Task_3/counter_app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Task_3/counter_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Task_3/counter_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Task_3/todo_app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Task_3/todo_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Task_3/todo_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Task_4/navigation_app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Task_4/navigation_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Task_4/navigation_app/build" />
+    </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
